@@ -41,9 +41,9 @@ global.tiny = (await import('./lib/tiny.cjs')).default
 global.gc = "https://chat.whatsapp.com/KYIzgolOI1I66efv9UMfch"
 global.gh = "https://github.com/FahriAdison"
 global.yt = "https://bit.ly/Papah-Chan"
-global.wm = '                「 Khurushi BOT あ⁩ 」' 
-global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘Riell - Ganzz˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
-global.wm3 = '⫹⫺ khurushi 𝗕𝗢𝗧'
+global.wm = '                「 Fahil-Botz あ⁩ 」' 
+global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘Fahil˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
+global.wm3 = '⫹⫺ Fahil Botz'
 function ucapan() {
 	var time = moment.tz('Asia/Jakarta').format('HH')
 	var res
@@ -118,10 +118,10 @@ global.log = function log() {
 	console.log.apply(console, args);
 }
 global.owner = [
-	//  ['6282146218274'],
-	//['6282146218274'],
-	['6282146218274', 'Riellxd', true],
-	['6282146218274', 'Riellxd', true]
+	//  ['6287833306677'],
+	//['6287833306677'],
+	['6287833306677', 'Fahil', true],
+	['6287833306677', 'Fahil', true]
 	// [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
@@ -139,24 +139,24 @@ global.APIKeys = { // APIKey Here
 	'https://ghostui-api.herokuapp.com/': 'OC2eTK'
 }
 // Sticker WM
-global.packname = 'Riell X Wahyu Animek'
-global.author = 'dibuat oleh Riell and Wahyu'
+global.packname = 'Fahil'
+global.author = 'dibuat oleh Fahil'
 
 global.sgc = 'https://chat.whatsapp.com/Eo0rT2MCSiWIijy7fMHlB7'
 global.sig = 'https://instagram.com/bot_whangsaf'
 //========Url Template Buttons=========//
 global.dtu = 'ɪɴꜱᴛᴀɢʀᴀᴍ'
-global.urlnya = "https://www.instagram.com/bot_whangsaf"
+global.urlnya = "https://www.instagram.com/_pahilz26"
 
 //============= callButtons =============//
 global.dtc = 'call nen wan wan'
 global.phn = '911'
 global.multiplier = 69 // The higher, The harder levelup
 /*============== NOMOR ==============*/
-global.nomorbot = '6283813417529'
-global.nomorown = '6282146218274'
-global.namebot = 'khurushi md'
-global.nameown = 'Riellxd'
+global.nomorbot = '1(641)9545802'
+global.nomorown = '6287833306677'
+global.namebot = 'Fahil-Botz'
+global.nameown = 'Fahil'
 global.thumb2 = fs.readFileSync('./papah.jpg')
 
 /*=========== FAKE SIZE ===========*/
