@@ -153,7 +153,7 @@ global.dtc = 'call nen wan wan'
 global.phn = '911'
 global.multiplier = 69 // The higher, The harder levelup
 /*============== NOMOR ==============*/
-global.nomorbot = '1(641)9545802'
+global.nomorbot = '6287852161042'
 global.nomorown = '6287833306677'
 global.namebot = 'Fahil-Botz'
 global.nameown = 'Fahil'
